@@ -144,7 +144,6 @@ main {
     border: none;
     margin-left: 20px;
 }
-
 /* Place section styles */
 .place-date {
     display: block;
@@ -156,7 +155,6 @@ main {
     margin: 0 auto;
     margin-bottom: 120px;
 }
-
 .place-date p {
     color: #070211;
     font-family: Inter;
@@ -179,7 +177,6 @@ main {
     line-height: 56px;
     text-transform: capitalize;
 }
-
 .place-date button {
     display: inline-flex;
     padding: 16px 32px;
@@ -197,7 +194,6 @@ main {
     line-height: normal;
     text-transform: uppercase;
 }
-
 /* coming soon section style */
 .coming-soon {
     display: flex;
@@ -208,12 +204,10 @@ main {
     margin: 120px 0;
     gap: 50px;
 }
-
 .coming-soon .cs-text {
     width: 400px;
     text-align: left;
 }
-
 .coming-soon .cs-text h6 {
     color: #F00;
     text-align: left;
@@ -223,7 +217,6 @@ main {
     font-weight: 500;
     line-height: normal;
 }
-
 .coming-soon .cs-text h2 {
     color: #070211;
     font-family: Merriweather;
@@ -234,7 +227,6 @@ main {
     text-transform: capitalize;
     margin-bottom: 22px;
 }
-
 .coming-soon .cs-text p {
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
@@ -243,14 +235,12 @@ main {
     font-weight: 400;
     line-height: 32px;
 }
-
 .coming-soon .cs-img {
     text-align: center;
     border-radius: 463px;
     border: 15px solid #F00;
     padding: 50px;
 }
-
 .coming-soon .cs-img img {
     width: 364.844px;
     height: 364.844px;
@@ -281,7 +271,6 @@ main {
     line-height: 32px;
     margin-bottom: 43px;
 }
-
 /* holidays section style */
 .holydays {
     width: 1320px;
@@ -290,12 +279,10 @@ main {
     justify-content: center;
     align-items: center;
 }
-
 .holydays .holydays-text {
     text-align: center;
     margin: 50px auto;
 }
-
 .holydays .holydays-text h6 {
     color: #070211;
     font-family: Inter;
@@ -304,7 +291,6 @@ main {
     font-weight: 500;
     line-height: normal;
 }
-
 .holydays .holydays-text h2 {
     color: #F00;
     text-align: center;
@@ -314,7 +300,6 @@ main {
     font-weight: 900;
     line-height: normal;
 }
-
 .holydays .holydays-text .sale50 {
     color: #070211;
     font-family: Merriweather;
@@ -323,7 +308,6 @@ main {
     font-weight: 900;
     line-height: normal;
 }
-
 .holydays .holydays-text p {
     color: rgba(7, 2, 17, 0.60);
     text-align: center;
@@ -334,49 +318,41 @@ main {
     line-height: 32px;
     width: 1068px;
 }
-
 .women-bag {
     position: absolute;
     top: 8.5%;
     left: 67.5%;
 }
-
 .fifty-discount {
     position: absolute;
     bottom: 44%;
     left: 90%;
 }
-
 .holydays-img {
     width: 1320px;
     margin: 0 auto;
     height: 728px;
     position: relative;
 }
-
 .shape {
     position: absolute;
     bottom: 0;
 }
-
 .gift-section {
     position: absolute;
     bottom: 2%;
 }
-
 /* portfolio section styles */
 .portfolio-main {
     margin: 120px 0;
 
 }
-
 .portfolio-text {
     width: 1320px;
     align-items: center;
     text-align: left;
     margin: 50px auto;
 }
-
 .portfolio-text h6 {
     color: #F00;
     font-family: Inter;
@@ -385,7 +361,6 @@ main {
     font-weight: 500;
     line-height: normal;
 }
-
 .portfolio-text h2 {
     color: #070211;
     font-family: Merriweather;
@@ -395,7 +370,6 @@ main {
     line-height: normal;
     text-transform: capitalize;
 }
-
 .portfolio-text p {
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
@@ -405,13 +379,11 @@ main {
     line-height: 32px;
     width: 896px;
 }
-
 .portfolio-img {
     display: grid;
     grid-template: repeat(2, 1fr) / repeat(3, 1fr);
     gap: 24px;
 }
-
 /* newsletter section styles */
 .newsletter-main {
     width: 1320px;
@@ -424,24 +396,22 @@ main {
     text-align: center;
     margin-bottom: 120px;
 }
-
 .section-heading {
     width: 896px;
     padding: 80px 212px 48px 212px;
     text-align: center;
 }
-
 .section-heading h2 {
     color: #070211;
+    font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
     text-transform: capitalize;
     margin: 40px 0 22px 0;
-
 }
-
 .section-heading p {
     color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
     font-size: 20px;
     font-weight: 400;
 }
@@ -475,7 +445,7 @@ main {
     padding: 24px 56px;
     border: none;
 }
-
+/* footer section styles */
 .footer-content {
     background: #070211;
     height: 500px;
@@ -500,7 +470,6 @@ main {
     justify-content: space-between;
     padding-top: 50px;
 }
-
 .footer-contact,
 .footer-copyright {
     font-family: Inter;
